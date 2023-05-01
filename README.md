@@ -1,7 +1,7 @@
 <div>
 <center>
 <a href="https://discord.gg/53FC6dyn8n"><img alt="discord-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" title="Anything you could ask yourself about this modpack can and will be answered here :)"></a>
-<a href="https://github.com/Alixxx-please/vwnao"><img alt="ghpages" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_vector.svg"></a>
+<a href="https://vwnao.gitbook.io/modpack/"><img alt="ghpages" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_vector.svg"></a>
 <a href="https://github.com/Alixxx-please/vwnao"><img alt="github-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/github-plural_vector.svg"></a>
 </center>
 </div>
